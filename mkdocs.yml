@@ -1,0 +1,19 @@
+site_name: 重生之我是IFBS大师
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - 首页与资源区: index.md
+  - Section 1 - 引言与核心临床关联: section1.md
+  - Section 2 - GDF15胎儿来源证明: section2.md
+  - Section 3 - 遗传学证据与风险变异: section3.md
+  - Section 4 - 受体脱敏机制: section4.md
+  - Section 5 - 讨论与方法: section5.md
+  - 押题区 (MCQ Test): mcq.md
