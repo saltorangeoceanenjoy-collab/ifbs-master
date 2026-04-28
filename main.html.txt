@@ -2,11 +2,11 @@
 
 {% block comments %}
   <div style="max-width: 800px; margin: 50px auto; padding: 0 20px;">
-    <script src="https://giscus.app/client.js"
+<script src="https://giscus.app/client.js"
         data-repo="saltorangeoceanenjoy-collab/ifbs-master"
         data-repo-id="R_kgDOSOwb5A"
-        data-category="[在此输入分类名]"
-        data-category-id="[在此输入分类 ID]"
+        data-category="General"
+        data-category-id="DIC_kwDOSOwb5M4C73i2"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
